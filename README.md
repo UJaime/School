@@ -1,2 +1,2 @@
-# School
-Proyectos de Escuela
+# repositorio
+proyectos de escuela
